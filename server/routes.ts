@@ -96,15 +96,15 @@ const mockQuestions = [
 const mockLetters = [
   {
     id: 1,
-    title: "My Bubu",
+    title: "My First Love",
     content:
       "Every moment with you feels like a beautiful dream. Your smile lights up my world in ways I never knew possible. You make my heart skip a beat with just a simple glance. I cherish every second we spend together, every laugh we share, and every memory we create...",
     position: 0,
-    unlockTime: "33", // Always unlocked
+    unlockTime: null, // Always unlocked
   },
   {
     id: 2,
-    title: "The Lie I Told you ",
+    title: "Dear Heart",
     content:
       "Your smile brightens my darkest days. When I'm with you, everything else fades away. You are the melody to my song, the rhythm to my dance. Every moment spent with you feels like a beautiful dream I never want to wake up from...",
     position: 1,
@@ -112,11 +112,11 @@ const mockLetters = [
   },
   {
     id: 3,
-    title: "My Hidden Truth",
+    title: "Sweetheart",
     content:
       "I cherish every second we spend together. You're not just my love, but my best friend. The way you understand me, support me, and believe in me makes me fall in love with you more each day...",
     position: 2,
-    unlockTime: "88", // Unlock after 3 hours
+    unlockTime: "3", // Unlock after 3 hours
   },
   {
     id: 4,
@@ -152,20 +152,11 @@ const mockLetters = [
   },
   {
     id: 8,
-    title: "Our End",
+    title: "My Future",
     content:
-      "This is the only think I never want in my lyf but I know every relationship have a end point and ill try to keep it as long as I can  ...but jane se pehle I want to give all the love I have inside me for you ...
-       I want to give you everything you deserve from my side...❤️❤️
-       Parrr  Ik even that won’t be enough to make you stay...Still...I don’t want regrets...I want you to remember the vcery last moment...I love you ❤️ with everything I have..
-      No matter where life takes us..a part of me will always belong to you..You were my happiest place..my safest feeling...my love for you will never really die ...I'll never forget everything you Teach and give mee...
-      If we not be in close ...I just hope...someday, when you look back.. remember me with ur big faty cheek smile 🤭...for now just enjoy the time 💕..I don't think this time will come back....🐉...hehe
-      And if life ever brings us back together, even for a fleeting moment, I hope we can smile at each other the same way we once did—without regrets, without sadness, just pure love for what we shared.
-      Even if we walk different road...uk that somewhere in this glaxy ( me tabtak mars pe chala gya hounga ...)...nikku still carries a piece of you in their heart . You will always be my favorite Person 💙
-      .........HEHEHE..............
-        i love you , yup 
-",
+      "When I think about my future, all I see is you. You are my present, my future, and my forever. Every step I take forward, I want to take with you by my side. Our love story is just beginning...",
     position: 7,
-    unlockTime: "null", // Unlock after 55 hours
+    unlockTime: "55", // Unlock after 55 hours
   },
 ];
 
