@@ -1,0 +1,112 @@
+Physics:
+Laws of Motion:
+What is Newton’s third law of motion?
+a) Every action has an equal and opposite reaction.
+b) An object in motion will stay in motion.
+c) The acceleration of an object is directly proportional to the force.
+d) The force acting on an object is equal to the product of mass and acceleration.
+Correct Answer: a)
+
+Electrostatics:
+What does Coulomb’s law describe?
+a) The force between two point charges.
+b) The magnetic field around a moving charge.
+c) The force between two parallel conductors.
+d) The relationship between pressure and volume in a gas.
+Correct Answer: a)
+
+Optics:
+The focal length of a concave mirror is 10 cm. What is the image distance when the object is at 30 cm from the mirror?
+a) 15 cm
+b) 7.5 cm
+c) 20 cm
+d) 30 cm
+Correct Answer: a)
+
+Chemistry:
+Atomic Structure:
+According to Bohr’s model, the energy of an electron in the nth orbit is:
+a) 
+−
+13.6
+𝑛
+2
+− 
+n 
+2
+ 
+13.6
+​
+  eV
+b) 
++
+13.6
+𝑛
+2
++ 
+n 
+2
+ 
+13.6
+​
+  eV
+c) 
+−
+13.6
+𝑛
+− 
+n
+13.6
+​
+  eV
+d) 
++
+13.6
+𝑛
++ 
+n
+13.6
+​
+  eV
+Correct Answer: a)
+
+Chemical Bonding:
+Which of the following compounds contains a covalent bond?
+a) NaCl
+b) CO2
+c) Na2O
+d) MgCl2
+Correct Answer: b)
+
+Thermodynamics:
+The first law of thermodynamics states that energy:
+a) Can be created but not destroyed.
+b) Can neither be created nor destroyed, only transferred or converted.
+c) Is lost as heat in all reactions.
+d) Is constant in all chemical processes.
+Correct Answer: b)
+
+Biology:
+Cell Biology:
+Which organelle is responsible for energy production in a cell?
+a) Nucleus
+b) Ribosome
+c) Mitochondria
+d) Golgi apparatus
+Correct Answer: c)
+
+Genetics:
+According to Mendel’s law of segregation, during gamete formation:
+a) The alleles of a gene pair separate.
+b) The dominant allele is expressed.
+c) Both alleles remain together.
+d) Only recessive alleles are inherited.
+Correct Answer: a)
+
+Human Physiology:
+Which of the following is responsible for the filtration of blood in the kidneys?
+a) Glomerulus
+b) Loop of Henle
+c) Proximal convoluted tubule
+d) Distal convoluted tubule
+Correct Answer: a)
