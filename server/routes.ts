@@ -96,9 +96,9 @@ const mockQuestions = [
 const mockLetters = [
   {
     id: 1,
-    title: "My First Love",
+    title: "My Bubu",
     content:
-      "Every moment with you feels like a beautiful dream. Your smile lights up my world in ways I never knew possible. You make my heart skip a beat with just a simple glance. I cherish every second we spend together, every laugh we share, and every memory we create...",
+      "hey dont wtch thsi , i have not updated it yed ",
     position: 0,
     unlockTime: null, // Always unlocked
   },
@@ -108,7 +108,7 @@ const mockLetters = [
     content:
       "Your smile brightens my darkest days. When I'm with you, everything else fades away. You are the melody to my song, the rhythm to my dance. Every moment spent with you feels like a beautiful dream I never want to wake up from...",
     position: 1,
-    unlockTime: "88", // Unlock after 1 hour
+    unlockTime: "8811", // Unlock after 1 hour
   },
   {
     id: 3,
@@ -116,7 +116,7 @@ const mockLetters = [
     content:
       "I cherish every second we spend together. You're not just my love, but my best friend. The way you understand me, support me, and believe in me makes me fall in love with you more each day...",
     position: 2,
-    unlockTime: "3", // Unlock after 3 hours
+    unlockTime: "311", // Unlock after 3 hours
   },
   {
     id: 4,
@@ -124,7 +124,7 @@ const mockLetters = [
     content:
       "You came into my life like an angel, bringing so much joy and happiness. Your love is the greatest gift I could ever receive. Every day with you is a new adventure, a new reason to smile...",
     position: 3,
-    unlockTime: "6", // Unlock after 6 hours
+    unlockTime: "622", // Unlock after 6 hours
   },
   {
     id: 5,
@@ -132,7 +132,7 @@ const mockLetters = [
     content:
       "I promise to always be there for you, through thick and thin. Your happiness is my happiness, your dreams are my dreams. Together, we can conquer anything life throws our way...",
     position: 4,
-    unlockTime: "12", // Unlock after 12 hours
+    unlockTime: "1221", // Unlock after 12 hours
   },
   {
     id: 6,
@@ -140,7 +140,7 @@ const mockLetters = [
     content:
       "You are the sunshine that brightens my every morning. Your love warms my heart like the first rays of dawn. When you're around, even the cloudiest days feel bright and beautiful...",
     position: 5,
-    unlockTime: "24", // Unlock after 24 hours
+    unlockTime: "2411", // Unlock after 24 hours
   },
   {
     id: 7,
@@ -148,15 +148,15 @@ const mockLetters = [
     content:
       "You mean the world to me. Every day with you is a new adventure. Your love makes everything better, brighter, and more meaningful. You are the missing piece that makes my life complete...",
     position: 6,
-    unlockTime: "36", // Unlock after 36 hours
+    unlockTime: "3623", // Unlock after 36 hours
   },
   {
     id: 8,
-    title: "My Future",
+    title: "Our End",
     content:
       "When I think about my future, all I see is you. You are my present, my future, and my forever. Every step I take forward, I want to take with you by my side. Our love story is just beginning...",
     position: 7,
-    unlockTime: "55", // Unlock after 55 hours
+    unlockTime:null, // Unlock after 55 hours
   },
 ];
 
