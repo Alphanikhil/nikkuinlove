@@ -100,7 +100,7 @@ const mockLetters = [
     content:
       "hey dont wtch thsi , i have not updated it yed ",
     position: 0,
-    unlockTime: "643", // Always unlocked
+    unlockTime: "64", // Always unlocked
   },
   {
     id: 2,
@@ -108,7 +108,7 @@ const mockLetters = [
     content:
       "Your smile brightens my darkest days. When I'm with you, everything else fades away. You are the melody to my song, the rhythm to my dance. Every moment spent with you feels like a beautiful dream I never want to wake up from...",
     position: 1,
-    unlockTime: "8811", // Unlock after 1 hour
+    unlockTime: "100", // Unlock after 1 hour
   },
   {
     id: 3,
@@ -124,7 +124,7 @@ const mockLetters = [
     content:
       "You came into my life like an angel, bringing so much joy and happiness. Your love is the greatest gift I could ever receive. Every day with you is a new adventure, a new reason to smile...",
     position: 3,
-    unlockTime: "622", // Unlock after 6 hours
+    unlockTime: "230", // Unlock after 6 hours
   },
   {
     id: 5,
@@ -132,7 +132,7 @@ const mockLetters = [
     content:
       "I promise to always be there for you, through thick and thin. Your happiness is my happiness, your dreams are my dreams. Together, we can conquer anything life throws our way...",
     position: 4,
-    unlockTime: "122112", // Unlock after 12 hours
+    unlockTime: "320", // Unlock after 12 hours
   },
   {
     id: 6,
@@ -140,7 +140,7 @@ const mockLetters = [
     content:
       "You are the sunshine that brightens my every morning. Your love warms my heart like the first rays of dawn. When you're around, even the cloudiest days feel bright and beautiful...",
     position: 5,
-    unlockTime: "2411", // Unlock after 24 hours
+    unlockTime: "96", // Unlock after 24 hours
   },
   {
     "id": 7,
