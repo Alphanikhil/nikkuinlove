@@ -17,10 +17,10 @@ export default function Home() {
         className="text-center relative z-10"
       >
         <h1 className="text-4xl font-bold text-pink-600 mb-4">
-          Welcome My Love! 💝
+          Welcome Bubu! 💝
         </h1>
         <p className="text-xl text-pink-500 mb-8 max-w-md mx-auto">
-          I have something special just for you... A journey filled with love and surprises awaits!
+          I have something  just for you ❤️🤫
         </p>
 
         <motion.button
@@ -30,7 +30,7 @@ export default function Home() {
           className="bg-pink-400 text-white px-8 py-3 rounded-full shadow-lg 
                    hover:bg-pink-500 transition-colors text-lg font-medium"
         >
-          Start Your Love Journey
+          Click Here Bubu
         </motion.button>
       </motion.div>
 
