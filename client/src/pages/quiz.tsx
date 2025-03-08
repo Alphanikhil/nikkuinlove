@@ -93,7 +93,7 @@ export default function Quiz() {
                     animate={{ scale: [1, 1.1, 1] }}
                     transition={{ duration: 0.5 }}
                   >
-                    Correct! 🎉
+                    Yay Good Gurl! 🎉
                   </motion.h3>
                   <motion.div
                     initial={{ y: 20, opacity: 0 }}
