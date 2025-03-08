@@ -100,11 +100,11 @@ const mockLetters = [
     content:
       "hey dont wtch thsi , i have not updated it yed ",
     position: 0,
-    unlockTime: null, // Always unlocked
+    unlockTime: "643", // Always unlocked
   },
   {
     id: 2,
-    title: "Dear Heart",
+    title: "My Secret",
     content:
       "Your smile brightens my darkest days. When I'm with you, everything else fades away. You are the melody to my song, the rhythm to my dance. Every moment spent with you feels like a beautiful dream I never want to wake up from...",
     position: 1,
@@ -112,7 +112,7 @@ const mockLetters = [
   },
   {
     id: 3,
-    title: "Sweetheart",
+    title: "The Lie I Told You",
     content:
       "I cherish every second we spend together. You're not just my love, but my best friend. The way you understand me, support me, and believe in me makes me fall in love with you more each day...",
     position: 2,
@@ -120,7 +120,7 @@ const mockLetters = [
   },
   {
     id: 4,
-    title: "My Angel",
+    title: "About US",
     content:
       "You came into my life like an angel, bringing so much joy and happiness. Your love is the greatest gift I could ever receive. Every day with you is a new adventure, a new reason to smile...",
     position: 3,
@@ -128,35 +128,33 @@ const mockLetters = [
   },
   {
     id: 5,
-    title: "Forever Yours",
+    title: "The Letter I Never Sent",
     content:
       "I promise to always be there for you, through thick and thin. Your happiness is my happiness, your dreams are my dreams. Together, we can conquer anything life throws our way...",
     position: 4,
-    unlockTime: "1221", // Unlock after 12 hours
+    unlockTime: "122112", // Unlock after 12 hours
   },
   {
     id: 6,
-    title: "My Sunshine",
+    title: "About bubu",
     content:
       "You are the sunshine that brightens my every morning. Your love warms my heart like the first rays of dawn. When you're around, even the cloudiest days feel bright and beautiful...",
     position: 5,
     unlockTime: "2411", // Unlock after 24 hours
   },
   {
-    id: 7,
-    title: "My World",
-    content:
-      "You mean the world to me. Every day with you is a new adventure. Your love makes everything better, brighter, and more meaningful. You are the missing piece that makes my life complete...",
-    position: 6,
-    unlockTime: "3623", // Unlock after 36 hours
+    "id": 7,
+    "title": "OUR END",
+    "content": "This is the only think I never want in my lyf but I know every relationship have a end point and ill try to keep it as long as I can  ...but jane se pehle I want to give all the love I have inside me for you ... I want to give you everything you deserve from my side...❤️❤️ Parrr  Ik even that won’t be enough to make you stay...Still...I don’t want regrettt...I want you to remember the vcery last moment...I love you ❤️ with everything I have..\n\nNo matter where life takes us..a part of me will always belong to you..You were my happiest place..my safest feeling...my love for you will never really die ...I'll never forget everything you Teach and give mee...\n\nIf we not be in close ...I just hope...someday, when you look back.. remember me with ur big faty cheek smile 🤭...for now just enjoy the time 💕..I don't think this time will come back....🐉...",
+    "position": 6,
+    "unlockTime": null,
   },
   {
-    id: 8,
-    title: "Our End",
-    content:
-      "When I think about my future, all I see is you. You are my present, my future, and my forever. Every step I take forward, I want to take with you by my side. Our love story is just beginning...",
-    position: 7,
-    unlockTime:null, // Unlock after 55 hours
+    "id": 8,
+    "title": "NOTE",
+    "content": " \n I'm extremely sorry for my recent behaviour like i only think about myself..pr aisa nhi hai m yr pata nhi mujhe aisa lgta hai...ap mujhe bhool rhe ho ...dar lgta rehta hai yrr 🤧idk isiliye i always try aisa kya bolu jise ..you get excited to talk with me and isiliye pata nhi me kya kya bol raha tha ..and i don't Even care about ur thoughts...I'm sorry for this 🤧...I was just scared...ik ur stuglling exam...the exam pressure, late night study ( NIGHT OWL) ..you are my strong babes just take deep breath you are more than these exam ,,, result kaisa bhi ho exam never defined how amazaing u r ,,,, i see ur hardwork ( late night study , one time dinner ) .... i beleive in u , u can easily do thsi ,,, , tu kr legi tu tension nh ik ...just stay focued im  with you and alway ill be , if you need any kind of help just text me ...you dont have to score 720/720   just give ur 100% ..dont forget to take care of urself..i always be here loving u,,, i believe in you .\n\n...GOOD LUCK for ur exam , love you\n",
+    "position": 7,
+    "unlockTime": null,
   },
 ];
 
