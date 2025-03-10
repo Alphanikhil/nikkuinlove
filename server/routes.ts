@@ -100,7 +100,7 @@ const mockLetters = [
     content:
       "hey dont wtch thsi , i have not updated it yed ",
     position: 0,
-    unlockTime: "64", // Always unlocked
+    unlockTime: "100", // Always unlocked
   },
   {
     id: 2,
@@ -108,7 +108,7 @@ const mockLetters = [
     content:
       "Your smile brightens my darkest days. When I'm with you, everything else fades away. You are the melody to my song, the rhythm to my dance. Every moment spent with you feels like a beautiful dream I never want to wake up from...",
     position: 1,
-    unlockTime: "100", // Unlock after 1 hour
+    unlockTime: "150", // Unlock after 1 hour
   },
   {
     id: 3,
@@ -140,7 +140,7 @@ const mockLetters = [
     content:
       "You are the sunshine that brightens my every morning. Your love warms my heart like the first rays of dawn. When you're around, even the cloudiest days feel bright and beautiful...",
     position: 5,
-    unlockTime: "96", // Unlock after 24 hours
+    unlockTime: "116", // Unlock after 24 hours
   },
   {
     "id": 7,
